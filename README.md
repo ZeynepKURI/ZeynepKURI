@@ -1,7 +1,8 @@
  ![MasterHead](https://www.enderunglobal.com/wp-content/uploads/2019/01/Web-Design-1.png)
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">A passionate frontend and backend developer from Turkiye</h3>
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" >
+     
 - 🔭 I’m currently working on **Java and React**
 
 - 🌱 I’m currently learning **PHP,Java and React**
