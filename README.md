@@ -1,5 +1,5 @@
 
- [![MasterHead](https://accurate.id/wp-content/uploads/2021/11/accurate.id-Front-end-adalah-pengertian-cara-kerja-dan-perbedaannya-dengan-back-end.jpg)
+ [![MasterHead](https://maker.robotistan.com/wp-content/uploads/2017/12/web-development-min.png)
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">A passionate frontend and backend developer from Turkiye</h3>
 
