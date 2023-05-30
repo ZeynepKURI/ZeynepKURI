@@ -1,5 +1,4 @@
-
- [![MasterHead](https://maker.robotistan.com/wp-content/uploads/2017/12/web-development-min.png)
+ ![MasterHead](https://maker.robotistan.com/wp-content/uploads/2017/12/web-development-min.png)
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">A passionate frontend and backend developer from Turkiye</h3>
 
