@@ -15,6 +15,7 @@
 <p align="left">
 
 <a href="https://instagram.com/zeynepkuriii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeynepkuriii" height="30" width="40" /></a>
+<a href="https://instagram.com/zeynepkuriii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedln.svg" alt="ZeynepKURI" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
