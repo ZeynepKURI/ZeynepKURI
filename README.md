@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend and backend developer from Turkiye</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" >
      
-- 🔭 I’m currently working on **Java and React**
+- 🔭 "I’m currently working on **artificial intelligence, machine learning, and data science**."
 
-- 🌱 I’m currently learning **PHP,Java and React**
+- 🌱 I’m currently learning **PHP,Java**
 
 - 💬 Ask me about **ASP.NET**
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/zeynep-kurı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeynep-kurı" height="30" width="40" /></a>
 
 <a href="https://instagram.com/zeynepkuriii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeynepkuriii" height="30" width="40" /></a>
 
