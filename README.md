@@ -5,8 +5,6 @@
      
 - 🔭 "I’m currently working on **artificial intelligence, machine learning, and data science**."
 
-- 🌱 I’m currently learning **PHP,Java**
-
 - 💬 Ask me about **ASP.NET**
 
 - 📫 How to reach me **zeynepkuri906@gmail.com**
